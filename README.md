@@ -27,16 +27,6 @@ How to Achieve This:
         3. Manually send simple HTTP requests using curl or browser extensions.
         
 
-GitHub Integration:
-  
-        1. Create a new GitHub repository named web-fundamentals-roadmap.
-        2. Initialize Git in a local folder: git init.
-        3. Add your Excalidraw export (as PNG or SVG) to the folder.
-        4. Create a README.md explaining your diagram.
-        5. Make your first commit: git add ., git commit -m "feat: Initial commit with network diagram".
-        6. Connect your local repository to GitHub: git remote add origin <your-repo-url>.
-        7. Push your work to GitHub: git push -u origin main.
-        8. Best Practice: Ensure your .gitignore file includes common ignored files (e.g., .DS_Store).
 
 ## Week 2: Developer Environment Setup & Git Basics
 
