@@ -26,10 +26,7 @@ How to Achieve This:
         2. Use browser developer tools (Network tab) to observe HTTP requests/responses on various websites.
         3. Manually send simple HTTP requests using curl or browser extensions.
         
-Project: Network Diagram Visualization
-    
-        Task: Using Excalidraw or similar, create a visual diagram illustrating the full journey of a web request from typing a URL in a browser to the page loading, including DNS lookup, HTTP request, server response, and browser rendering.
-      
+
 GitHub Integration:
   
         1. Create a new GitHub repository named web-fundamentals-roadmap.
