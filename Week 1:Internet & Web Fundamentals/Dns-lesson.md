@@ -37,18 +37,6 @@ Humans remember names better than numbers. Computers use IP addresses to communi
 
 ---
 
-## 🔍 Common DNS Record Types
-
-| Record Type | Purpose                                   |
-|-------------|-------------------------------------------|
-| A           | Maps a domain to an IPv4 address          |
-| AAAA        | Maps a domain to an IPv6 address          |
-| CNAME       | Aliases one domain to another             |
-| MX          | Specifies mail servers for email routing  |
-| NS          | Lists name servers for the domain         |
-| TXT         | Used for verification and security        |
-
----
 
 ## 🛡️ DNS Security Considerations
 
