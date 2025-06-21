@@ -104,6 +104,8 @@ curl -H "User-Agent: MyCustomBrowser/1.0" -H "Accept: application/json" https://
 - Idempotent
 - Used to delete a resource
 
+For more learning on http methods use this [link](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
+
 ---
 
 ## Practical Hands-on: HTTP Methods with curl and Postman
@@ -163,6 +165,8 @@ Follow the same steps as curl but use GUI to set method, headers, and body.
   - 500 Internal Server Error
   - 502 Bad Gateway
   - 503 Service Unavailable
+ 
+To learn more about status codes use this [link](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
 
 ---
 
