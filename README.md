@@ -46,18 +46,6 @@ How to Achieve This:
         4. Create a simple HTML file, open it with Live Server.
         5. Practice Git commands on small, local files.
         
-Project: "Hello World" Static Page & GitHub Profile Readme
-  
-        1. Create a simple index.html with a "Hello, World!" heading and a style.css to center it. Open it with Live Server.
-        2. Create a personalized GitHub Profile README (the special repository named after your GitHub username). This is a great way to showcase your initial learnings.
-        
-GitHub Integration:
-  
-        1. For the "Hello World" project, create a new repository named hello-web.
-        2. Commit your index.html and style.css regularly: git add ., git commit -m "feat: add initial hello world page".
-        3. Practice pushing to GitHub: git push origin main.
-        4. For your GitHub Profile README, commit and push changes as you update it.
-        5. Best Practice: Write clear, concise commit messages.
 
 ### Resources for Phase 0
 
