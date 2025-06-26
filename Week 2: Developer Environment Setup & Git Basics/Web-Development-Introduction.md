@@ -321,7 +321,7 @@ Different types of hosting cater to various needs based on performance, control,
 
 > Uses a distributed cloud infrastructure instead of one server.
 
-**IaaS Providers:**
+**IaaS(infranstructure as a service) Providers:**
 - **AWS** – EC2, S3, RDS, etc. Massive scalability  
 - **Google Cloud** – Great for AI/ML and global performance  
 - **Microsoft Azure** – Ideal for Microsoft ecosystems  
