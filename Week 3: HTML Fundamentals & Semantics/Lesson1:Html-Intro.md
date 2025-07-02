@@ -68,6 +68,7 @@ Here is a simple example of a complete HTML document:
   </head>
   <body>
     //content goes here
+    // all the content you want visible
   </body>
 </html>
 ````
