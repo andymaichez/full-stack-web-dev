@@ -67,8 +67,7 @@ Here is a simple example of a complete HTML document:
     <title>My First HTML Page</title>
   </head>
   <body>
-    <h1>Hello, World!</h1>
-    <p>This is my very first paragraph on a web page.</p>
+    //content goes here
   </body>
 </html>
 ````
