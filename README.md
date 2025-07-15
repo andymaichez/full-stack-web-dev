@@ -112,9 +112,9 @@ How to Achieve This:
         2. Create small style.css files to experiment with selectors and box model.
         3. Use browser developer tools to inspect and modify styles.
         
-Project: Restaurant Menu Card
+Project: Restaurant Website
   
-        Task: Design an aesthetically pleasing restaurant menu card using your HTML and CSS knowledge. Include headings, descriptions, prices, and perhaps images. Focus on layout and typography.
+        Task: Design an aesthetically pleasing restaurant website using your HTML and CSS knowledge. Include headings, descriptions, prices, and perhaps images. Focus on layout and typography.
         
 GitHub Integration:
   
