@@ -1,7 +1,7 @@
-Excellent\! With a solid grasp of HTML as the structure of your web pages, it's time to bring them to life with CSS: Cascading Style Sheets. This is where your webpages go from being plain text documents to visually engaging experiences.
+With a solid grasp of HTML as the structure of your web pages, it's time to bring them to life with CSS: Cascading Style Sheets. This is where your webpages go from being plain text documents to visually engaging experiences.
 
 -----
-# Dive into CSS (Cascading Style Sheets)
+# CSS (Cascading Style Sheets)
 
 CSS is a stylesheet language used to describe the presentation of a document written in HTML. It controls the layout, colors, fonts, spacing, and overall appearance of your web pages. Think of it as the skin, paint, and interior design for your HTML skeleton.
 
