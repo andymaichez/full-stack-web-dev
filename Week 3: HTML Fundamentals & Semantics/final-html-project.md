@@ -54,8 +54,10 @@ Create the following files and folders:
 - Make a description list (`<dl>`) for a FAQ or glossary.
 - Use `<time>` to show important dates (e.g., graduation).
 - Add an `<aside>` with quick facts or external resource links.
+- Include a footer
 
 #### **gallery.html**
+
 - Set up the basic HTML document structure (DOCTYPE, `<html>`, `<head>`, `<body>`, etc.)
 - Inside the `<body>`, create a `<section>` to hold your images
 - Give this section a descriptive heading using an `<h2>` tag
@@ -68,6 +70,7 @@ Create the following files and folders:
   - Include alternative text for accessibility
   - Add a caption using a suitable element
 - Make one image (for example, under the "Travel" section) clickable so that it opens a link in a new tab. The image source (src) should be an external URL (i.e., an absolute path from a site like Unsplash or another online source), not a file saved in your local images folder.
+- Include a footer.
 
 **Expected Outcome**
 ``` 
