@@ -56,11 +56,26 @@ Create the following files and folders:
 - Add an `<aside>` with quick facts or external resource links.
 
 #### **gallery.html**
+- Set up the basic HTML document structure (DOCTYPE, `<html>`, `<head>`, `<body>`, etc.)
+- Inside the `<body>`, create a `<section>` to hold your images
+- Give this section a descriptive heading using an `<h2>` tag
+- Use an unordered list (`<ul>`) to create three categories: Travel, Work, and Hobbies
+- Each category should be a list item (`<li>`) and contain its own nested list for images i.e inside each `<li> </li>` you should have another nested `<ul> </ul>` which has the image
+- In each nested list, add one image using the appropriate image tag
+- For each image:
 
-- Display a collection of at least 3 images (use `<figure>` and `<figcaption>`).
-- Each image must have descriptive `alt` text and `width`/`height` attributes.
-- Make at least one image a clickable link to an external site.
-- Use nested lists to describe categories (e.g., “Travel”, “Work”, “Hobbies”).
+  - Set the source to one of your image files
+  - Include alternative text for accessibility
+  - Add a caption using a suitable element
+- Make one image (for example, under the "Travel" section) clickable so that it opens a link in a new tab. The image source (src) should be an external URL (i.e., an absolute path from a site like Unsplash or another online source), not a file saved in your local images folder.
+
+**Expected Outcome**
+``` 
+   - Display a collection of at least 3 images (use `<figure>` and `<figcaption>`).
+   - Each image must have descriptive `alt` text and `width`/`height` attributes.
+   - Make at least one image a clickable link to an external site.
+   - Use nested lists to describe categories (e.g., “Travel”, “Work”, “Hobbies”).
+```
 
 #### **contact.html**
 
