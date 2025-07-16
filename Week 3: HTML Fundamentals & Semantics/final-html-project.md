@@ -43,7 +43,6 @@ Create the following files and folders:
 - Use `<main>` and `<section>` for your introduction.
 - Include a profile image using `<img>`.
 - List your hobbies or interests using an unordered list (`<ul>`).
-- Add an anchor link that jumps to the footer/contact info.
 - `<footer>` with copyright and contact details.
 
 #### **about.html**
