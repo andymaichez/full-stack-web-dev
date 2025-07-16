@@ -370,6 +370,29 @@ footer {
   ```
 
 ---
+Brand colors we could use:
+
+**Sample Brand Color Palette:**
+
+- **Primary:**  
+  - Indigo or Deep Blue (#3F51B5) – Trustworthy, tech-focused.
+- **Accent:**  
+  - Vibrant Cyan (#00BCD4) – Modern, energetic highlight.
+- **Background:**  
+  - Light Gray (#F5F7FA) – Clean, easy on the eyes.
+- **Surface/Secondary:**  
+  - White (#FFFFFF) and Soft Slate (#ECEFF1) – For cards, navigation, etc.
+- **Text:**  
+  - Very Dark Gray (#263238) – For high readability.
+- **Alert/CTA:**  
+  - Soft Coral (#FF7043) – For buttons or highlights needing attention.
+
+**Example Usage:**
+- Navbar: Deep Blue background, white text.
+- Buttons: Cyan with white text, hover to Coral.
+- Cards/Sections: White background, subtle shadow, dark gray text.
+- Links: Deep Blue or Cyan.
+
 
 ## Summary
 
