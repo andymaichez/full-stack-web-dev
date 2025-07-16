@@ -58,27 +58,38 @@ Create the following files and folders:
 
 #### **gallery.html**
 
-- Set up the basic HTML document structure (DOCTYPE, `<html>`, `<head>`, `<body>`, etc.)
-- Inside the `<body>`, create a `<section>` to hold your images
-- Give this section a descriptive heading using an `<h2>` tag
-- Use an unordered list (`<ul>`) to create three categories: Travel, Work, and Hobbies
-- Each category should be a list item (`<li>`) and contain its own nested list for images i.e inside each `<li> </li>` you should have another nested `<ul> </ul>` which has the image
-- In each nested list, add one image using the appropriate image tag
-- For each image:
+- Use a `<header>` element for the top section of your page.
+- Include your name or portfolio title inside a main heading tag.
+- Add a navigation menu using a `<nav>` element and an unordered list.
+- Include links to pages such as Home, About, Gallery, and Contact.
+- Use `aria-label` on the `<nav>` for accessibility.
 
-  - Set the source to one of your image files
-  - Include alternative text for accessibility
-  - Add a caption using a suitable element
-- Make one image (for example, under the "Travel" section) clickable so that it opens a link in a new tab. The image source (src) should be an external URL (i.e., an absolute path from a site like Unsplash or another online source), not a file saved in your local images folder.
-- Include a footer.
+Build the Main Content Section
 
-**Expected Outcome**
-``` 
-   - Display a collection of at least 3 images (use `<figure>` and `<figcaption>`).
-   - Each image must have descriptive `alt` text and `width`/`height` attributes.
-   - Make at least one image a clickable link to an external site.
-   - Use nested lists to describe categories (e.g., “Travel”, “Work”, “Hobbies”).
-```
+- Use the `<main>` element to wrap your primary content.
+- Inside, create a **hero section** that welcomes visitors to the gallery.
+  - Include a heading and a brief introductory paragraph.
+
+Create the Gallery Section
+
+- Add a new `<section>` to house your gallery.
+- Use a heading to introduce this part of the site.
+- Divide the gallery into categories:
+  - **Travel**
+  - **Work**
+  - **Hobbies**
+- For each category:
+  - Add a subheading.
+  - Use a `<figure>` element containing an `<img>` and a `<figcaption>`.
+  - Wrap the image in an anchor tag if it links to an external resource.
+  - Add descriptive `alt` text for accessibility.
+
+- At the bottom, add a `<footer>` section.
+- Include the following elements:
+  - Dynamic copyright
+  - Links to social media profiles (e.g., LinkedIn, GitHub)
+  - A contact email using a `mailto:` link
+
 
 #### **contact.html**
 
